@@ -1,5 +1,5 @@
-This is a Project made in Python. It controls screen brightness through the gesture of your fingers
-To setup on your Device:
+This is a Project made in Python. It controls screen brightness through the gesture of your fingers.
+To set this up on your Device:
 1. Make sure you have Python and Pip installed.
 2. Next install the following packages :
      1. pip install mediapipe
