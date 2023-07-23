@@ -2,10 +2,10 @@ This is a Project made in Python. It controls screen brightness through the gest
 To setup on your Device:
 1. Make sure you have Python and Pip installed.
 2. Next install the following packages :
-     . pip install mediapipe
-     . pip install opencv-python
-     . pip install screen-brightness-control
-     . pip install numpy
+     1. pip install mediapipe
+     2. pip install opencv-python
+     3. pip install screen-brightness-control
+     4. pip install numpy
 3. Clone this Repository
 4. Run this file
 
